@@ -42,6 +42,6 @@ The settings to set to 0 are:
 
 - `phpthumb_cache_maxage`
 - `phpthumb_cache_maxfiles`
-- `phpthumb_cache_maxsizes`
+- `phpthumb_cache_maxsize`
 
 These settings can be found in _System_ > _System Settings_ and then under the _phpThumb_ area.
